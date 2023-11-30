@@ -1,0 +1,71 @@
+<standard1>
+Equity release products shall be lifetime products. The customers shall be able to live in their main homes for their whole life to enjoy and maintain.
+</standard1>
+
+<standard2>
+If the customer is residing on the property and upholding its contractual obligations, the provider (which term henceforth in this document includes any creditor to which the loan is subsequently transferred) has the right to require repayment of the outstanding loan, rolled up interest and costs due, only upon the customer’s death or a move into permanent long-term care.
+</standard2>
+
+<standard3>
+When an event occurs, which makes the loan due for repayment, the customer or the customer’s estate shall be given a reasonable time to arrange for the repayment, which includes time for estate inventory proceedings and/or sale of the property for the repayment of the amounts due with the proceeds. Unless the property is to be sold at a public auction, the provider shall have a contractual right to control that the property is professionally sold at market conditions.
+</standard3>
+
+<standard4>
+If on the property’s sale on market conditions, the sales proceeds are lower than the amount due, and provided that the customer is not in breach of any substantial contractual obligations, the provider will not expect the customer or the customer’s estate or heirs to make up the shortfall with other assets. This commitment shall as a minimum be applied when the property is sold following the customer’s death or permanent move to long term care.</standard4>
+
+<standard5>
+Providers should allow customers to transfer the loan to another suitable property, which meets the providers’ then lending conditions and criteria.
+</standard5>
+yes
+
+<standard6>
+Early redemption of the loans should be permitted. Providers should at the outset make clear the likely cost impact to the customer for such redemption and ensure transparency of costs.
+</standard6>
+yes
+
+<standard7>
+Product providers may offer a range of terms, including interest served, rolled up, fixed for life or a term, or variable. In case of variable interest customers should preferably be offered an option to have an interest rate cap and in any case be informed of the impact of not having such a cap.
+</standard7>
+yes
+
+<standard8>
+In the pre-sales information pack, the impact of compounded interest shall be shown – in different interest rate scenarios if required – showing the growth of the total debt over time. A comparison between these calculations and the home-value development in different house price index scenarios shall also be included, showing estimated development of the customer’s net equity.
+</standard8>
+
+<standard9>
+The providers are required to ensure that all information from the provider to customers and the contracting process are done by competent, knowledgeable and duly authorized persons.
+</standard9>
+
+<standard10>
+The providers will require that a checklist has been completed before contract signing, showing that the customer has received the required relevant information. The checklist shall be signed by both the customer and the informer and a copy given to the provider and the customer.
+</standard10>
+
+1.
+Producten voor het vrijgeven van vermogen dienen levenslange producten te zijn. Klanten dienen in staat te zijn om gedurende hun gehele leven in hun primaire woning te blijven wonen, om er van te genieten en deze te onderhouden.
+
+2.
+Als de klant op het grondgebied van het pand woont en zijn contractuele verplichtingen nakomt, heeft de aanbieder (een term die vanaf dit punt in dit document ook elke schuldeiser omvat aan wie de lening later wordt overgedragen) het recht om terugbetaling te eisen van de uitstaande lening, de opgetelde rente en verschuldigde kosten, maar alleen na het overlijden van de klant of diens verhuizing naar permanente langdurige zorg.
+
+3.
+Indien een situatie zich voordoet waarbij de lening terugbetaald moet worden, krijgt de klant of diens nalatenschap redelijke tijd om de terugbetaling te regelen, inclusief tijd voor de afwikkeling van de nalatenschap en/of de verkoop van het pand om met de opbrengst de verschuldigde bedragen te voldoen. Tenzij het pand op een openbare veiling verkocht wordt, heeft de aanbieder het contractuele recht om te zorgen dat het pand professioneel en tegen marktconforme condities verkocht wordt.
+
+4.
+Indien de verkoopopbrengst van het pand onder marktcondities lager uitvalt dan het verschuldigde bedrag en mits de klant geen wezenlijke contractuele verplichtingen heeft geschonden, zal de aanbieder niet verwachten dat de klant, diens nalatenschap of erfgenamen het verschil bijleggen met andere activa. Deze belofte geldt minimaal wanneer het onroerend goed wordt verkocht na het overlijden van de klant of diens permanente overgang naar langdurige zorg.
+
+5.
+Aanbieders dienen klanten de mogelijkheid te bieden om de lening over te zetten naar een andere passende woning, die voldoet aan de dan geldende leenvoorwaarden en criteria van de aanbieders.
+
+6.
+Het moet mogelijk zijn om de leningen vervroegd af te lossen. Aanbieders dienen vanaf het begin duidelijk te maken wat de waarschijnlijke kostenimpact voor de klant is bij een dergelijke aflossing en moeten zorgen voor transparantie in de kosten.
+
+7.
+Productleveranciers kunnen verschillende voorwaarden aanbieden, zoals betaalde rente, opgespaarde rente, rente vastgezet voor het leven of een bepaalde periode, of variabele rente. Bij variabele rente moeten klanten bij voorkeur de mogelijkheid krijgen om een maximum rentetarief (renteplafond) af te spreken en moeten zij in ieder geval worden geïnformeerd over de gevolgen van het niet hebben van zo'n plafond.
+
+8.
+In de informatieset voorafgaand aan de verkoop moet de impact van de samengestelde rente worden weergegeven – indien nodig in verschillende rentetarieven scenario's – om de toename van de totale schuld over de tijd te tonen. Ook dient er een vergelijking te zijn tussen deze berekeningen en de ontwikkeling van de woningwaarde volgens verschillende scenario's van de huizenprijsindex, waarbij de verwachte ontwikkeling van het netto eigen vermogen van de klant wordt geschat.
+
+9.
+De aanbieders zijn verplicht te waarborgen dat alle communicatie van de aanbieder naar de klanten, evenals het gehele contracteringsproces, worden uitgevoerd door bevoegde, goed geïnformeerde en officieel geautoriseerde personen.
+
+10.
+De aanbieders zullen vereisen dat een checklist is ingevuld voor de ondertekening van het contract, waaruit blijkt dat de klant alle benodigde en relevante informatie heeft ontvangen. Deze checklist dient door zowel de klant als de verstrekker van de informatie ondertekend te worden, waarna een kopie aan zowel de aanbieder als de klant wordt overhandigd.

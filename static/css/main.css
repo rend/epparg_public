@@ -1,0 +1,359 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'helvetica neue', helvetica, arial, sans-serif;
+    padding: 70px
+}
+
+.powered_by {
+    font-size: 24px;
+    font-weight: 200;
+}
+
+.novex {
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: 8px;
+    color: #5CE1E5;
+}
+
+.epparg-strap {
+    font-size: 140px;
+    font-weight: 400;
+    color: white;
+}
+
+.standards-check {
+    font-size: 70px;
+    font-weight: 400;
+    color: #F8A01C;
+}
+
+.standards-strapline {
+    font-size: 28px;
+    font-weight: 400;
+    color: #F8A01C;
+    margin-top: 30px;
+}
+
+.container {
+    display: flex;          /* Use flexbox for the layout */
+    align-items: center;    /* Vertically center content */
+}
+
+.container img {
+    height: 100px;          
+    width: auto;            /* Maintain the image's aspect ratio */
+    margin-right: 10px;     /* Space between the image and the text */
+}
+
+.top-container {
+    display: flex;
+}
+
+.file-btn {
+    background-color: black;
+    color: white;
+    border: 3px solid white;
+    padding: 20px 40px 20px 40px;
+    font-weight: 500;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+}
+
+.file-btn:hover {
+    opacity: 0.8; /* Reduces the button's opacity to 80% on hover */
+    transition: opacity 0.3s ease; /* Optional: Smooth transition for the opacity change */
+}
+.icon-white {
+    filter: invert(98%) sepia(2%) saturate(6%) hue-rotate(22deg) brightness(101%) contrast(105%);
+}
+
+.gap {
+    margin-top: 50px;
+}
+
+.left {
+    padding: 20px;
+    margin-right: 50px;
+    box-sizing: border-box;
+}
+
+.right {
+    flex: 1;
+    padding: 20px;
+    margin-top: 40px;
+    box-sizing: border-box;
+}
+
+.lds-ring {
+    display: inline-block;
+    position: relative;
+    width: 80px;
+    height: 80px;
+  }
+  .lds-ring div {
+    box-sizing: border-box;
+    display: block;
+    position: absolute;
+    width: 64px;
+    height: 64px;
+    margin: 8px;
+    border: 8px solid #fff;
+    border-radius: 50%;
+    animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+    border-color: #fff transparent transparent transparent;
+  }
+  .lds-ring div:nth-child(1) {
+    animation-delay: -0.45s;
+  }
+  .lds-ring div:nth-child(2) {
+    animation-delay: -0.3s;
+  }
+  .lds-ring div:nth-child(3) {
+    animation-delay: -0.15s;
+  }
+  @keyframes lds-ring {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+
+#progress-container {
+  flex: 1;
+  background-color: #F8A01C;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  max-width: 720px;
+}
+  
+#progress-bar {
+  width: 0%;
+  height: 30px;
+  background-color: #4CAF50;
+  text-align: center;
+  line-height: 30px;
+  color: rgb(2, 2, 2);
+  border-radius: 5px;
+  transition: width 0.4s ease-in-out;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#status-updates {
+  width: 630px;
+  padding: 20px;
+  margin-bottom: 100px;
+}
+
+#status-updates .status-message {
+  margin: 10px 0;
+  font-size: 24px;
+  font-weight: 200; /* Normal text size */
+  transition: font-size 0.3s ease-in-out;
+  color: white;
+}
+
+#status-updates .status-message.current {
+  font-size: 30px; /* Larger text size for emphasis */
+  font-weight: 400;
+  color: #F8A01C;
+}
+
+.table-styled {
+  font-family: 'helvetica neue', helvetica, arial, sans-serif;; /* Match the font from the webpage */
+  font-weight: 200;
+  border-collapse: collapse;
+  width: 100%;
+  color: #ffffff; /* A neutral color for the text */
+  background-color: #000000; /* A neutral background */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); /* Optional: to add some depth */
+  max-width: 1400px;
+}
+
+.table-styled th, .table-styled td {
+  text-align: left;
+  padding: 30px;
+  min-width: 150px;
+  border-bottom: 1px solid #ddd; /* Subtle borders for separation */
+}
+
+.table-styled th {
+  background-color: #ffffff; /* Pick a color from the logo */
+  color: black;
+  font-weight: 400;
+}
+
+.met-false tr:nth-child(even){background-color: rgb(139, 42, 42)}
+.met-false tr:nth-child(odd){background-color: rgb(139, 42, 42)}
+
+.table-styled tr:last-child td {
+  border-bottom: none;
+}
+
+/* Adding icons or shapes to headers or cells if needed */
+.table-styled th:before {
+  content: url('path-to-your-icon.svg'); /* Add relevant icons before your table headers */
+  padding-right: 8px;
+}
+
+.met-false {
+  background-color: rgb(139, 42, 42);
+}
+
+/* Responsive behavior */
+@media screen and (max-width: 600px) {
+  .table-styled, .table-styled th, .table-styled td {
+    display: block;
+  }
+  .table-styled th, .table-styled td {
+    text-align: right;
+    padding-left: 50%;
+  }
+  .table-styled th:before, .table-styled td:before {
+    position: absolute;
+    margin-left: -100%;
+    white-space: nowrap;
+  }
+}
+
+.ecr_background {
+  background-color: #374049;
+  max-width: 2000px;
+  border-radius: 20px;
+  height: 88vh;
+  overflow: hidden;
+}
+
+.ecr_left {
+  padding: 20px;
+  min-width: 1000px;
+  max-width: 1000px;
+  box-sizing: border-box;
+}
+
+.ecr_right {
+  flex: 1;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.ecr_blurb {
+  font-size: 22px;
+  font-weight: 200;
+  overflow-y: auto;
+  height: 88%;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.ecr_standards_blurb {
+  font-size: 22px;
+  font-weight: 200;
+  overflow-y: auto;
+  height: 88%;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.ecr_overflow_wrapper {
+  overflow: hidden;
+  height: 100%;
+}
+
+.ecr_title {
+  font-size: 50px;
+  font-weight: 400;
+  color: #F8A01C;
+  padding: 20px;
+}
+
+.ecr_result_line {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/* Styles for Webkit browsers */
+.ecr_blurb::-webkit-scrollbar {
+  width: 12px; /* Width of the vertical scrollbar */
+  height: 90%;
+}
+
+.ecr_blurb::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Color of the scrollbar track */
+}
+
+.ecr_blurb::-webkit-scrollbar-thumb {
+  background-color: #888; /* Color of the scrollbar thumb */
+  border-radius: 6px; /* Rounded corners on the scrollbar thumb */
+  border: 3px solid #f1f1f1; /* Creates a border around the scrollbar thumb */
+}
+
+.ecr_blurb::-webkit-scrollbar-thumb:hover {
+  background-color: #555; /* Color of the scrollbar thumb when hovered or active */
+}
+
+/* Styles for Firefox */
+.ecr_blurb {
+  scrollbar-width: thin; /* "auto" or "thin" */
+  scrollbar-color: #888 #f1f1f1; /* thumb and track color */
+}
+
+/* Styles for IE/Edge */
+.ecr_blurb {
+  -ms-overflow-style: -ms-autohiding-scrollbar; /* Optional: this is for hiding scrollbars in IE/Edge when not in use */
+}
+
+/* Styles for Webkit browsers */
+.ecr_standards_blurb::-webkit-scrollbar {
+  width: 12px; /* Width of the vertical scrollbar */
+  height: 90%;
+}
+
+.ecr_standards_blurb::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Color of the scrollbar track */
+}
+
+.ecr_standards_blurb::-webkit-scrollbar-thumb {
+  background-color: #888; /* Color of the scrollbar thumb */
+  border-radius: 6px; /* Rounded corners on the scrollbar thumb */
+  border: 3px solid #f1f1f1; /* Creates a border around the scrollbar thumb */
+}
+
+.ecr_standards_blurb::-webkit-scrollbar-thumb:hover {
+  background-color: #555; /* Color of the scrollbar thumb when hovered or active */
+}
+
+/* Styles for Firefox */
+.ecr_standards_blurb {
+  scrollbar-width: thin; /* "auto" or "thin" */
+  scrollbar-color: #888 #f1f1f1; /* thumb and track color */
+}
+
+/* Styles for IE/Edge */
+.ecr_standards_blurb {
+  -ms-overflow-style: -ms-autohiding-scrollbar; /* Optional: this is for hiding scrollbars in IE/Edge when not in use */
+}
+
+.report_link {
+  display: flex;
+  justify-content: space-between;
+}
+
+.report_link_left, .report_link_right {
+  width: 48%;
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
